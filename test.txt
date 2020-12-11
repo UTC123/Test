@@ -1,0 +1,25 @@
+{
+  "name": "UTC",
+  "logoURI": "https://s3.ax1x.com/2020/12/07/Dvo7eU.png",
+  "keywords": [
+      "utc",
+      "UTC",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x82372d6bd38313a74bc6c65edbfe6c4c68f418d1",
+      "name": "UTC",
+      "symbol": "UTC",
+      "decimals": 18,
+      "logoURI": "https://s3.ax1x.com/2020/12/07/Dvo7eU.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
